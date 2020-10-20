@@ -5,3 +5,5 @@
 > yarn add @types/module-alias -D
 > yarn add @typescript-eslint/eslint-plugin eslint @typescript-eslint/parser -D
 > yarn add ts-node-dev -D
+> yarn add jest ts-jest @types/jest -D
+> yarn add supertest @types/supertest -D
