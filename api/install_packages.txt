@@ -3,3 +3,4 @@
 > yarn add @types/node -D
 > yarn add module-alias
 > yarn add @types/module-alias -D
+> yarn add @typescript-eslint/eslint-plugin eslint @typescript-eslint/parser -D
