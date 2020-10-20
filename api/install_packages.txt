@@ -1,0 +1,5 @@
+> yarn init -y
+> yarn add typescript -D
+> yarn add @types/node -D
+> yarn add module-alias
+> yarn add @types/module-alias -D
