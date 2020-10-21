@@ -7,3 +7,5 @@
 > yarn add ts-node-dev -D
 > yarn add jest ts-jest @types/jest -D
 > yarn add supertest @types/supertest -D
+> yarn add express body-parser @overnightjs/core
+> yarn add @types/express -D
