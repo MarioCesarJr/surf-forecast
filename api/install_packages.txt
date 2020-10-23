@@ -9,3 +9,4 @@
 > yarn add supertest @types/supertest -D
 > yarn add express body-parser @overnightjs/core
 > yarn add @types/express -D
+> yarn add prettier -D
