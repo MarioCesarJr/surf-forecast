@@ -11,3 +11,5 @@
 > yarn add @types/express -D
 > yarn add prettier -D
 > yarn add axios
+> yarn add config
+> yarn add @types/config -D
