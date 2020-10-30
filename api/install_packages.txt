@@ -13,3 +13,5 @@
 > yarn add axios
 > yarn add config
 > yarn add @types/config -D
+> yarn add mongoose
+> yarn add @types/mongoose -D
