@@ -16,3 +16,5 @@
 > yarn add mongoose
 > yarn add @types/mongoose -D
 > yarn add nock -D @types/nock
+> yarn add bcrypt
+> yarn add @types/bcrypt -D
