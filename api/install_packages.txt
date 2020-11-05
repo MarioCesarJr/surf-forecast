@@ -20,3 +20,6 @@
 > yarn add @types/bcrypt -D
 > yarn add jsonwebtoken
 > yarn add @types/jsonwebtoken -D
+> yarn add pino
+> yarn add @types/pino -D
+> yarn add pino-pretty -D
