@@ -23,3 +23,9 @@
 > yarn add pino
 > yarn add @types/pino -D
 > yarn add pino-pretty -D
+> yarn add http-status-codes
+> yarn add @types/http-status-codes -D
+> yarn add express-pino-logger
+> yarn add @types/express-pino-logger -D
+> yarn add cors
+> yarn add @types/cors -D
