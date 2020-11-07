@@ -3,8 +3,11 @@
 
 name: Complete workflow
 
-on: ['push']
-
+on:
+  push:
+    paths:
+    - 'api/**'
+    
 jobs:
 
   build:
