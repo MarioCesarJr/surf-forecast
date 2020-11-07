@@ -29,3 +29,5 @@
 > yarn add @types/express-pino-logger -D
 > yarn add cors
 > yarn add @types/cors -D
+> yarn add lodash
+> yarn add @types/lodash -D
