@@ -31,3 +31,7 @@
 > yarn add @types/cors -D
 > yarn add lodash
 > yarn add @types/lodash -D
+> yarn add express-openapi-validator@3.16.1
+> yarn add swagger-ui-express@4.1.4
+> yarn add @types/swagger-ui-express -D
+> yarn add @types/multer -D
