@@ -44,4 +44,3 @@ process.on('uncaughtException', (error) => {
     process.exit(ExitStatus.Failure);
   }
 })();
-

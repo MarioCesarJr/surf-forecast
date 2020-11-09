@@ -6,7 +6,7 @@ import * as HTTPUtil from '@src/util/request';
 jest.mock('@src/util/request');
 
 describe('StormGlass client', () => {
-   /**
+  /**
    * Used for static method's mocks
    */
   const MockedRequestClass = HTTPUtil.Request as jest.Mocked<
